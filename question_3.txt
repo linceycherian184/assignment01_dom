@@ -1,0 +1,3 @@
+Difference between innertext and textcontent.
+
+Innertext is aware of styling and wont show the contents which are hidden whereas textcontent shows every content irrespect of the styling.

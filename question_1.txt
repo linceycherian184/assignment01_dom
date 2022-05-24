@@ -1,0 +1,13 @@
+1. What will the DOM structure look like for this , explain in terms of attributes and everything
+
+<head>
+<h1> Title </h1>
+</head>
+<body>
+<input type="text" name="Name" />
+<input type="button" value="Submit" />
+</body>
+
+
+Inside the head tag heading tag <h1>, where "Title" is displayed of size h1. Then comes the body tag where an input box of name "Name" is given. After which another input box of type button named as submit is given.
+After which body tag is closed.
